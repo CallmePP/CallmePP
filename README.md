@@ -1,4 +1,4 @@
-🐝 Greetings, I'm PP.   ˗ˋˏ♡ˎˊ˗ 🐝
+🐝 Greetings, I'm PuPae.   ˗ˋˏ♡ˎˊ˗ 🐝
 
 <!---
 CallmePP/CallmePP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
