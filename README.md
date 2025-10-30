@@ -9,9 +9,9 @@ Currently, I'm exploring **n8n** for workflow automation and data integration.
 
 I'm always ready to **learn, improve, and develop new skills** to grow as a better engineer and creator.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/1cd36b29-14fc-440a-b7b1-6d0b495d0d50" alt="Cockatiel gif" width="300" />
-</p>
+</p> -->
 
 ---
 
